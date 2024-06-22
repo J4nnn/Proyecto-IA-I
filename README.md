@@ -3,8 +3,8 @@
 ![Banner](Banner.png)
 
 ## Autores
-- Diego Armando Medina Ortega
-- Janer Alberto Vega Jácome
+- Diego Armando Medina Ortega - 2171879
+- Janer Alberto Vega Jácome - 2210048
 
 ## Objetivo
 Desarrollar un modelo predictivo que permita estimar los precios de propiedades inmobiliarias con alta precisión.
