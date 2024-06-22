@@ -2,17 +2,19 @@
 
 ![Banner](banner.png)
 
-## Subtítulo 1
-Contenido del subtítulo 1
+## Autores
+Diego Armando Medina Ortega, Janer Alberto Vega Jácome
 
-## Subtítulo 2
-Contenido del subtítulo 2
+## Objetivo
+Desarrollar un modelo predictivo que permita estimar los precios de propiedades inmobiliarias con alta precisión.
 
-## Subtítulo 3
-Contenido del subtítulo 3
+## Dataset
+[](https://www.kaggle.com/datasets/rmjacobsen/property-listings-for-5-south-american-countries)
 
-## Subtítulo 4
-Contenido del subtítulo 4
+## Modelos
+- DecisionTreeRegressor
+- RandomForestRegressor
+- SVR
 
-## Subtítulo 5
-Contenido del subtítulo 5
+## Enlaces
+[GitHub](https://github.com/J4nnn/Proyecto-IA-I)
