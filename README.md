@@ -10,8 +10,7 @@
 Desarrollar un modelo predictivo que permita estimar los precios de propiedades inmobiliarias con alta precisión.
 
 ## Dataset
-El dataset contiene varios listados de bienes raíces en Argentina, Colombia, Ecuador, Perú y Uruguay. Con información de número de habitaciones, ciudad, precios, etc. Incluyen casas, departamentos, lotes comerciales y más.
-[](https://www.kaggle.com/datasets/rmjacobsen/property-listings-for-5-south-american-countries)
+El dataset contiene varios listados de bienes raíces en Argentina, Colombia, Ecuador, Perú y Uruguay. Con información de número de habitaciones, ciudad, precios, etc. Incluyen casas, departamentos, lotes comerciales y más. El dataset puede descargarse [aquí](https://www.kaggle.com/datasets/rmjacobsen/property-listings-for-5-south-american-countries).
 
 ## Modelos
 - DecisionTreeRegressor
